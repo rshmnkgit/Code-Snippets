@@ -73,8 +73,6 @@ def filter_list_2(l):
     return [i for i in l if not isinstance(i, str)]
 
 
-
-
 def longest(s1,s2):
     c = s1+s2
     c = set(c)
@@ -82,7 +80,12 @@ def longest(s1,s2):
     print(c)
     return c
 
+
+###################################################################################################
+#                   MAIN
+###################################################################################################
 # print(list('fgfdhghff'))
+
 res=[]
 res[:] = "fgfdhghff"
 # print(res)
