@@ -24,4 +24,5 @@ find_difference = lambda (a, b, c), (x, y, z): abs(a * b * c - x * y * z)
 from numpy import prod
 find_difference = lambda a, b: abs(prod(a) - prod(b))
 
+
 format_number_as_percentage()
