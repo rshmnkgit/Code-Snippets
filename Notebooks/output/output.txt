@@ -1,0 +1,34 @@
+JavaScript Interviewing for Python Engineers,Tuesday; FEBRUARY 16; 2021,6:00pm - 7:00pm CST
+Pave Your Pathway: Data Career Paths,Wednesday; FEBRUARY 17; 2021,5:00pm - 6:30pm CST
+One Epic Networking Prep Session,Wednesday; FEBRUARY 17; 2021,7:00pm - 8:00pm PST
+Technology Solutions Over the Years,Thursday; FEBRUARY 18; 2021,12:00pm - 1:00pm MST
+Google Recruitment Webinar and Panel Discussion,Thursday; FEBRUARY 18; 2021,12:00pm - 1:00pm PST
+Real Talk: Recruiting Brief - Women Candidates,Thursday; FEBRUARY 18; 2021,5:00pm - 6:00pm CST
+Industry Insights: Behind the Scenes of Employer Referrals,Monday; FEBRUARY 22; 2021,6:00pm - 7:00pm CST
+The Ultimate Interview Prep Session,Monday; FEBRUARY 22; 2021,6:30pm - 8:00pm PST
+Technology Project Management - Interview Prep,Tuesday; FEBRUARY 23; 2021,5:00pm - 6:00pm CST
+FDM Group Recruiting Webinar,Wednesday; FEBRUARY 24; 2021,12:00pm - 1:00pm EST
+Data Analytics - Interview Prep,Wednesday; FEBRUARY 24; 2021,4:00pm - 5:00pm PST
+Pave Your Pathway: UX/UI Career Paths,Thursday; FEBRUARY 25; 2021,6:00pm - 7:30pm PST
+Tech Talk: Careers in Coding,Friday; FEBRUARY 26; 2021,1:00pm - 2:00pm EST
+Design Patterns for JavaScript,Monday; MARCH 01; 2021,4:00pm - 5:00pm PST
+Technology Associate Careers with Infosys,Tuesday; MARCH 02; 2021,1:00pm - 2:00pm EST
+Start HERE: Intro to CS,Tuesday; MARCH 02; 2021,5:00pm - 6:00pm PST
+Beating the Imposter Syndrome: Conquer Your Search with Confidence,Wednesday; MARCH 03; 2021,5:00pm - 6:00pm CST
+MongoDB: Your Free On-demand Courses!,Thursday; MARCH 04; 2021,12:00pm - 1:00pm EST
+Pave Your Pathway: Web Dev + Cybersecurity Career Paths,Thursday; MARCH 04; 2021,6:00pm - 7:30pm CST
+AI Consultancy Careers with Pandata,Friday; MARCH 05; 2021,12:00pm - 1:00pm EST
+Strategies for Today’s Job Search,Monday; MARCH 08; 2021,5:00pm - 6:00pm PST
+Talking Tech for the FinTech Industry,Tuesday; MARCH 09; 2021,5:00pm - 6:00pm CST
+Real Talk: Overcoming Age Bias in Your Job Search,Wednesday; MARCH 10; 2021,6:00pm - 7:00pm CST
+The Ultimate Interview Prep Session,Thursday; MARCH 11; 2021,5:00pm - 6:30pm CST
+Make Your Time Count - Working With Your Career Director,Monday; MARCH 15; 2021,5:00pm - 6:00pm CDT
+Talking Tech,Tuesday; MARCH 16; 2021,4:00pm - 5:00pm PDT
+Hack Your Resume,Thursday; MARCH 18; 2021,5:00pm - 6:00pm PDT
+The Ultimate Interview Prep Session,Monday; MARCH 22; 2021,5:30pm - 7:00pm PDT
+Front-End Developm ent Frameworks: React vs. Angular vs. Vue Interview,Tuesday; MARCH 23; 2021,5:30pm - 6:30pm CDT
+Web Dev - Interview Prep,Wednesday; MARCH 24; 2021,5:00pm - 6:00pm CDT
+Pave Your Pathway: Digital Marketing + UXUI Career Paths,Thursday; MARCH 25; 2021,5:30pm - 7:00pm PDT
+Can you handle the truth? Debunking Job Search Myths,Monday; MARCH 29; 2021,4:00pm - 5:00pm PDT
+Cyber - Interview Prep,Tuesday; MARCH 30; 2021,5:00pm - 6:00pm CDT
+Big O Notation & Algorithm Efficiency,Wednesday; MARCH 31; 2021,5:00pm - 6:00pm CDT

@@ -55,12 +55,12 @@ print(newstr)
 # line = file.read().replace("\n", " ")
 file.close()
 
-file = open("c:/test/newfile.txt", 'w')
+file = open("c:/test/events.txt", 'w')
 file.write(newstr)
 file.close()
 
 
-file1 = open("c:/test/newfile.txt")
+file1 = open("c:/test/events.txt")
 In_text = csv.reader(file1, delimiter = ',')
  
 file2 =open("c:/test/Events.csv",'w')
